@@ -1,0 +1,27 @@
+.sideDrawer {
+    background: #FFDE2E;
+    height: 100vh;
+    padding: 25px;
+}
+
+.sideDrawer>* {
+    margin-bottom: 10px;
+}
+
+.lang {
+    display: block;
+}
+
+.input, .output {
+    color: black;
+    font-weight: bold;
+}
+
+.topRow {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.topRow button {
+    width: 90%;
+}
