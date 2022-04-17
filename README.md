@@ -5,7 +5,7 @@
 </p>
 
 ## 📜 Description:
-A Collaborative Code editor for pair programming, interviews, teaching and a lot more. The **"a-Live Coder"** is a code pair platform where users can share an interactive editor and write code together. It has language support for C++, Java and python. This application is based on the concept of operational transformation which forms the basis for a shared editor. Video calling is also provided within this application. It has some similar features as provided by HackerRank's CodePair platform.
+A Collaborative Code editor for pair programming. The **"a-Live Coder"** is a code pair platform where users can share an interactive editor and write code together. It has language support for C++, Java and python. This application is based on the concept of operational transformation which forms the basis for a shared editor. Video calling is also provided within this application. The project is heavily inspired from HackerRank's flagship product CodePair.
 
 ## 📽 Sample Demo:
 https://user-images.githubusercontent.com/54114888/126882762-fddf18d1-ebc1-4c90-94ce-5e62f632eb63.mp4
